@@ -1,0 +1,4 @@
+github.com/Jcowwell/go-algorithm-club v0.0.0-20220301144310-f6cfca9526c5 h1:LofeQVtJbtUmIF6HhZH+Ohxjdq1VMjUx6jb/pzkbgj8=
+github.com/Jcowwell/go-algorithm-club v0.0.0-20220301144310-f6cfca9526c5/go.mod h1:TDxTq6hk1eSyLrahkriGwtkmM9QYL6vytPfRrVynncI=
+golang.org/x/exp v0.0.0-20220218215828-6cf2b201936e h1:iWVPgObh6F4UDtjBLK51zsy5UHTPLQwCmsNjCsbKhQ0=
+golang.org/x/exp v0.0.0-20220218215828-6cf2b201936e/go.mod h1:lgLbSvA5ygNOMpwM/9anMpWVlVJ7Z+cHWq/eFuinpGE=
