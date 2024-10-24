@@ -1,5 +1,9 @@
 # AOC_2023
 
+## Introduction
+
+Done for the Programming Languages courses at Mines Nancy in December 2023. First steps in Go.
+
 ## Summary
 
 Benchmarked on AMD Ryzen 7 5800HS.
